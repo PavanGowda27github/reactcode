@@ -3,7 +3,7 @@
 function App() {
   return (
     <div className="App">
-    Pavan boss
+    <h1>react git Gub practice</h1>
     </div>
   );
 }
